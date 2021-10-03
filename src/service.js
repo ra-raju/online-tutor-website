@@ -1,0 +1,108 @@
+const service = [
+  {
+    id: 1,
+    tag: 'Web Development',
+    img: 'https://images.unsplash.com/photo-1599507593354-2b6d036eab4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80',
+    title: 'Learn Php Beginner',
+    description:
+      'PHP for Beginners: learn everything you need to become a professional PHP developer with practical exercises & projects.',
+    tutorPhoto:
+      'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80',
+    tutorName: 'Kamarun',
+    love: 202,
+    totalInrolled: 1000,
+    price: 100,
+  },
+  {
+    id: 2,
+    tag: 'Web Development',
+    img: 'https://wallpapercave.com/wp/wp2465915.png',
+    title: 'Mern Web Developer',
+    description:
+      'Master JavaScript React Node MongoDB NextJs SocketIo and Become a Professional MERN Stack Developer from Scratch',
+    tutorPhoto:
+      'https://images.unsplash.com/photo-1573165850883-9b0e18c44bd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=388&q=80',
+    tutorName: 'Kamarun',
+    love: 200,
+    totalInrolled: 200,
+    price: 200,
+  },
+  {
+    id: 3,
+    tag: 'English',
+    img: 'https://wallpapercave.com/wp/wp9642327.jpg',
+    title: 'Learn English Like Native',
+    description: 'dffff',
+    tutorPhoto:
+      'https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80',
+    tutorName: 'Kamarun',
+    love: 202,
+    totalInrolled: 1000,
+    price: 150,
+  },
+  {
+    id: 4,
+    tag: 'English',
+    img: 'https://kessingerconsulting.org/wp-content/uploads/2020/12/Ielts-product-page.jpg',
+    title: 'IELTS Reading',
+    description: 'dffff',
+    tutorPhoto:
+      'https://images.unsplash.com/photo-1548449112-96a38a643324?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80',
+    tutorName: 'Kamarun',
+    love: 202,
+    totalInrolled: 1000,
+    price: 200,
+  },
+  {
+    id: 5,
+    tag: 'Hacking',
+    img: 'https://wallpapercave.com/wp/wp7219259.jpg',
+    title: 'Ethical Hacking Pro',
+    description: 'dffff',
+    tutorPhoto:
+      'https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cG90cmFpdHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+    tutorName: 'Kamarun',
+    love: 202,
+    totalInrolled: 1000,
+    price: 200,
+  },
+  {
+    id: 6,
+    tag: 'Figma',
+    img: 'https://assets.materialup.com/uploads/3464e8a2-e7ef-4fb0-953f-9ce34d07578e/preview.png',
+    title: 'Professional Web Design',
+    description: 'dffff',
+    tutorPhoto:
+      'https://images.unsplash.com/photo-1586716402203-79219bede43c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=388&q=80',
+    tutorName: 'Kamarun',
+    love: 200,
+    totalInrolled: 200,
+    price: 200,
+  },
+  {
+    id: 7,
+    tag: 'Language',
+    img: 'https://c8.alamy.com/comp/H6FHCT/learn-spanish-language-online-education-concept-H6FHCT.jpg',
+    title: 'Learn Spanish',
+    description: 'dffff',
+    tutorPhoto:
+      'https://images.unsplash.com/photo-1557773092-edb2806042d2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTR8fHBvdHJhaXRzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+    tutorName: 'Kamarun',
+    love: 200,
+    totalInrolled: 200,
+    price: 200,
+  },
+  {
+    id: 1,
+    tag: 'Language',
+    img: 'https://thumbs.dreamstime.com/b/learn-japanese-word-cloud-hand-marker-concept-white-background-135870562.jpg',
+    title: 'Learn Japanese',
+    description: 'dffff',
+    tutorPhoto:
+      'https://images.unsplash.com/photo-1598273542329-46062c579e2f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=436&q=80',
+    tutorName: 'Kamarun',
+    love: 200,
+    totalInrolled: 200,
+    price: 200,
+  },
+];
