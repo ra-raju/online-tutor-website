@@ -24,11 +24,7 @@ const Service = (props) => {
           <Card.Body>
             <span className="tag">{tag}</span>
             <Card.Title>{title}</Card.Title>
-            <Card.Text>
-              This is a longer card with supporting text below as a natural
-              lead-in to additional content. This content is a little bit
-              longer.
-            </Card.Text>
+            <Card.Text>{description}</Card.Text>
             <h4 className="card-price">${price}</h4>
           </Card.Body>
           <Card.Footer className="card-footer">

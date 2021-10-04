@@ -1,10 +1,21 @@
 .hero-section {
+  padding: 25px 0;
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   justify-content: space-around;
 }
 
 .hero-img img {
-  width: 600px;
-  height: 500px;
+  width: 500px;
+  height: 400px;
+}
+
+.hero-text h1 {
+  font-size: 27px;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+}
+
+.hero-text p {
+  color: rgba(0, 0, 0, 0.669);
 }

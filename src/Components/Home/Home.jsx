@@ -1,4 +1,5 @@
 import React from 'react';
+import TopService from '../TopService/TopService';
 import './Home.css';
 
 const Home = () => {
@@ -7,7 +8,7 @@ const Home = () => {
       <div className="hero-section container">
         <div className="hero-img">
           <img
-            src="https://image.freepik.com/free-vector/learning-concept-illustration_114360-4118.jpg"
+            src="https://image.freepik.com/free-vector/student-girls-learning-medicine-online-tutor-giving-webinar-human-organs-chart-cartoon-illustration_74855-14522.jpg"
             alt=""
           />
         </div>
@@ -24,6 +25,8 @@ const Home = () => {
           </p>
         </div>
       </div>
+
+      <TopService />
     </div>
   );
 };
