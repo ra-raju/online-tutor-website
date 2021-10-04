@@ -37,7 +37,7 @@ const TopService = () => {
         title="see all service"
         onClick={goServicePage}
       >
-        <i class="fas fa-chevron-right"></i>
+        <i className="fas fa-chevron-right"></i>
       </Button>
     </div>
   );

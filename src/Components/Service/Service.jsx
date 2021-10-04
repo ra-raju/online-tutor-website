@@ -3,7 +3,6 @@ import { Card, Col } from 'react-bootstrap';
 import './Service.css';
 
 const Service = (props) => {
-  console.log(props.service);
   const {
     img,
     description,
@@ -36,13 +35,13 @@ const Service = (props) => {
             <div className="student">
               <div>
                 <p>
-                  <i class="fas fa-user"></i>{' '}
+                  <i className="fas fa-user"></i>{' '}
                   <span className="total-enroll">{totalInrolled}</span>
                 </p>
               </div>
               <div>
                 <p>
-                  <i class="fas fa-heart"></i>{' '}
+                  <i className="fas fa-heart"></i>{' '}
                   <span className="loved">{love}</span>
                 </p>
               </div>

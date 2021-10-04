@@ -42,16 +42,13 @@ export const Contact = () => {
             title="this is map"
             width="400"
             height="400"
-            frameborder="0"
+            frameBorder="0"
             scrolling="no"
-            marginheight="0"
-            marginwidth="0"
+            marginHeight="0"
+            marginWidth="0"
             id="gmap_canvas"
             src="https://maps.google.com/maps?width=400&amp;height=400&amp;hl=en&amp;q=New%20Monsurabad%20Chittagong+(Online%20tutor)&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
           ></iframe>{' '}
-          <a href="https://www.symptoma.com/en/info/covid-19">
-            Q&A Coronavirus
-          </a>{' '}
           <script
             type="text/javascript"
             src="https://embedmaps.com/google-maps-authorization/script.js?id=33a6b7bbcc17500c82d9b2d130850098a2b430b4"
