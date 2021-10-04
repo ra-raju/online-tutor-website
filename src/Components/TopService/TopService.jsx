@@ -1,16 +1,11 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import { Button, Row } from 'react-bootstrap';
 import { useHistory } from 'react-router';
+import useService from '../../Hooks/useService';
 import Service from '../Service/Service';
 
 const TopService = () => {
-  const [services, setServices] = useState([]);
-
-  useEffect(() => {
-    fetch('./service.json')
-      .then((res) => res.json())
-      .then((data) => setServices(data));
-  }, []);
+  const [services] = useService([]);
 
   const history = useHistory();
 

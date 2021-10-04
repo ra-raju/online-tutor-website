@@ -6,7 +6,7 @@
 }
 .card-img {
   width: 320px;
-  height: 200px;
+  height: 150px;
   transition: all 0.4s;
   -webkit-transition: all 0.4s;
   -moz-transition: all 0.4s;
@@ -41,7 +41,7 @@
 
 .card-price {
   position: absolute;
-  top: 164px;
+  top: 118px;
   right: 16px;
   background-color: #fdc632;
   color: #002347;
@@ -104,4 +104,8 @@
 
 .student span {
   font-weight: 700;
+}
+
+.far {
+  color: gold;
 }

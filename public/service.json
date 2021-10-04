@@ -18,9 +18,9 @@
     "title": "Mern Web Developer",
     "description": "Master JavaScript React Node MongoDB NextJs SocketIo and Become a Professional MERN Stack Developer from Scratch",
     "tutorPhoto": "https://images.unsplash.com/photo-1573165850883-9b0e18c44bd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=388&q=80",
-    "tutorName": "Kamarun",
-    "love": 200,
-    "totalInrolled": 200,
+    "tutorName": "Elora Hosain",
+    "love": 10,
+    "totalInrolled": 30,
     "price": 200
   },
   {
@@ -28,11 +28,11 @@
     "tag": "English",
     "img": "https://wallpapercave.com/wp/wp9642327.jpg",
     "title": "Learn English Like Native",
-    "description": "dffff",
+    "description": "English speaking course. 77 Hours of English language speaking, English listening practice. 1000 English language words",
     "tutorPhoto": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
-    "tutorName": "Kamarun",
-    "love": 202,
-    "totalInrolled": 1000,
+    "tutorName": "Galib Ahmed",
+    "love": 332,
+    "totalInrolled": 500,
     "price": 150
   },
   {
@@ -40,21 +40,21 @@
     "tag": "English",
     "img": "https://kessingerconsulting.org/wp-content/uploads/2020/12/Ielts-product-page.jpg",
     "title": "IELTS Reading",
-    "description": "dffff",
+    "description": "Complete preparation to achieve the band score you need in IELTS Writing Task 2 (Academic and General Training).",
     "tutorPhoto": "https://images.unsplash.com/photo-1548449112-96a38a643324?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80",
-    "tutorName": "Kamarun",
+    "tutorName": "Asha Akter",
     "love": 202,
-    "totalInrolled": 1000,
-    "price": 200
+    "totalInrolled": 700,
+    "price": 250
   },
   {
     "id": 5,
     "tag": "Hacking",
     "img": "https://wallpapercave.com/wp/wp7219259.jpg",
     "title": "Ethical Hacking Pro",
-    "description": "dffff",
+    "description": "Become an ethical hacker that can hack computer systems like black hat hackers and secure them like security experts.",
     "tutorPhoto": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cG90cmFpdHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-    "tutorName": "Kamarun",
+    "tutorName": "Hasib Bin ",
     "love": 202,
     "totalInrolled": 1000,
     "price": 200
@@ -63,36 +63,36 @@
     "id": 6,
     "tag": "Figma",
     "img": "https://assets.materialup.com/uploads/3464e8a2-e7ef-4fb0-953f-9ce34d07578e/preview.png",
-    "title": "Professional Web Design",
-    "description": "dffff",
+    "title": "UI/UX Design",
+    "description": "Become a Designer in 2021! Master Mobile and Web Design, User Interface + User Experience",
     "tutorPhoto": "https://images.unsplash.com/photo-1586716402203-79219bede43c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=388&q=80",
-    "tutorName": "Kamarun",
-    "love": 200,
+    "tutorName": "Sagor khan",
+    "love": 80,
     "totalInrolled": 200,
-    "price": 200
+    "price": 99
   },
   {
     "id": 7,
     "tag": "Language",
     "img": "https://c8.alamy.com/comp/H6FHCT/learn-spanish-language-online-education-concept-H6FHCT.jpg",
     "title": "Learn Spanish",
-    "description": "dffff",
+    "description": "Learn Spanish with the complete, non-stop SPEAKING method, in a matter of days, not years.",
     "tutorPhoto": "https://images.unsplash.com/photo-1557773092-edb2806042d2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTR8fHBvdHJhaXRzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-    "tutorName": "Kamarun",
-    "love": 200,
+    "tutorName": "Virat Vax",
+    "love": 100,
     "totalInrolled": 200,
-    "price": 200
+    "price": 100
   },
   {
     "id": 1,
     "tag": "Language",
     "img": "https://thumbs.dreamstime.com/b/learn-japanese-word-cloud-hand-marker-concept-white-background-135870562.jpg",
     "title": "Learn Japanese",
-    "description": "dffff",
+    "description": "You learn Japanese minutes into your first lesson. Learn to speak, read and write with 100 lessons",
     "tutorPhoto": "https://images.unsplash.com/photo-1598273542329-46062c579e2f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=436&q=80",
-    "tutorName": "Kamarun",
-    "love": 200,
-    "totalInrolled": 200,
-    "price": 200
+    "tutorName": "Ra. Raju",
+    "love": 50,
+    "totalInrolled": 70,
+    "price": 80
   }
 ]
