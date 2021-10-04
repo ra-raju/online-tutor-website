@@ -36,13 +36,13 @@ const Service = (props) => {
             <div className="student">
               <div>
                 <p>
-                  <i class="far fa-user"></i>{' '}
+                  <i class="fas fa-user"></i>{' '}
                   <span className="total-enroll">{totalInrolled}</span>
                 </p>
               </div>
               <div>
                 <p>
-                  <i class="far fa-heart"></i>{' '}
+                  <i class="fas fa-heart"></i>{' '}
                   <span className="loved">{love}</span>
                 </p>
               </div>
