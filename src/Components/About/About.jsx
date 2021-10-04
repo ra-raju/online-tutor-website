@@ -4,6 +4,7 @@ import './About.css';
 const About = () => {
   return (
     <div>
+      {/* about us section */}
       <div className="about d-flex align-items-center justify-content-around">
         <div className="about-img">
           <img
@@ -21,6 +22,8 @@ const About = () => {
           </p>
         </div>
       </div>
+
+      {/* activities section */}
 
       <div className="our-activities">
         <h1 className="activities-title">We just keep growing</h1>

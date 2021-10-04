@@ -18,6 +18,9 @@ const TopService = () => {
       <div className="service-heading text-center my-4">
         <h1 className="text-uppercase mb-5">Our top service</h1>
       </div>
+
+      {/* top service */}
+
       <div className="service-items ms-3">
         <Row xs={1} md={2} lg={3} className="g-4 service-row">
           {services.slice(0, 4).map((service) => (
@@ -25,6 +28,8 @@ const TopService = () => {
           ))}
         </Row>
       </div>
+
+      {/* more service btn */}
 
       <Button
         variant="dark"

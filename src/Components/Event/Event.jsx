@@ -15,6 +15,7 @@ const Event = () => {
           and attracts 2,000 attendees across the globe.
         </p>
 
+        {/* event timer section */}
         <div className="">
           <Timer />
         </div>

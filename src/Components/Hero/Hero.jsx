@@ -5,12 +5,16 @@ const Hero = () => {
   return (
     <div>
       <div className="hero-section container">
+        {/* hero img section */}
+
         <div className="hero-img">
           <img
             src="https://image.freepik.com/free-vector/student-girls-learning-medicine-online-tutor-giving-webinar-human-organs-chart-cartoon-illustration_74855-14522.jpg"
             alt=""
           />
         </div>
+
+        {/* hero description */}
         <div className="hero-text">
           <h1>Learn anything , learn anytime</h1>
           <p>

@@ -8,6 +8,7 @@ const Services = () => {
   const [services] = useService([]);
   return (
     <div className="services">
+      {/* service title */}
       <div className="service-heading text-center my-4">
         <h1>Services We Offer</h1>
         <p className="w-75 mx-auto mb-5">
@@ -16,6 +17,9 @@ const Services = () => {
           air night bring upon lesser subdue.
         </p>
       </div>
+
+      {/* service container */}
+
       <div className="service-items ms-3">
         <Row xs={1} md={2} lg={3} className="g-4 service-row">
           {services.map((service) => (

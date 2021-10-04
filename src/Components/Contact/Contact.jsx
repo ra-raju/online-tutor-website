@@ -13,23 +13,30 @@ export const Contact = () => {
     <div className="contact-section">
       <h1 className="contact-heading text-center">Contact Us</h1>
       <div className="contact">
+        {/* this is form section */}
         <Form className="form">
           <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
             <Form.Label>Full Name</Form.Label>
-            <Form.Control type="text" placeholder="your name" />
+            <Form.Control type="text" placeholder="your name" required />
           </Form.Group>
           <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
             <Form.Label>Email address</Form.Label>
-            <Form.Control type="email" placeholder="name@example.com" />
+            <Form.Control
+              type="email"
+              placeholder="name@example.com"
+              required
+            />
           </Form.Group>
           <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
             <Form.Label>Example textarea</Form.Label>
-            <Form.Control as="textarea" rows={3} />
+            <Form.Control as="textarea" rows={3} required />
           </Form.Group>
           <Button variant="primary" type="submit" onClick={formHandler}>
             Submit
           </Button>
         </Form>
+
+        {/* map section */}
         <div className="map">
           <iframe
             title="this is map"

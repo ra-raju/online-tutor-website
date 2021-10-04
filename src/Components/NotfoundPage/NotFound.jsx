@@ -10,12 +10,16 @@ const NotFound = () => {
   };
   return (
     <div className="notfound">
+      {/* not found text */}
       <div className="notfound-info">
         <h1>Sorry!! This page not found</h1>
         <button className="btn-regular" onClick={backHomePageHandler}>
           go to home page
         </button>
       </div>
+
+      {/* not found img */}
+
       <div className="notfound-img-container">
         <img
           src="https://image.freepik.com/free-vector/oops-404-error-with-broken-robot-concept-illustration_114360-5529.jpg"
