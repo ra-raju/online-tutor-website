@@ -1,0 +1,14 @@
+.timer {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  padding-top: 40px;
+  margin: 0 10px;
+}
+.one {
+  margin: 20px;
+}
+
+.time {
+  font-size: 20px;
+}

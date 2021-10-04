@@ -1,4 +1,5 @@
 import React from 'react';
+import Event from '../Event/Event';
 import TopService from '../TopService/TopService';
 import './Home.css';
 
@@ -27,6 +28,7 @@ const Home = () => {
       </div>
 
       <TopService />
+      <Event />
     </div>
   );
 };
