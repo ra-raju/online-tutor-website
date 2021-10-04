@@ -25,7 +25,7 @@ const TopService = () => {
       </div>
       <div className="service-items ms-3">
         <Row xs={1} md={2} lg={3} className="g-4 service-row">
-          {services.slice(0, 3).map((service) => (
+          {services.slice(0, 4).map((service) => (
             <Service service={service} key={service.id} />
           ))}
         </Row>

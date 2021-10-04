@@ -15,7 +15,7 @@ const Services = () => {
     <div className="services">
       <div className="service-heading text-center my-4">
         <h1>Services We Offer</h1>
-        <p className="w-75 mx-auto my-3">
+        <p className="w-75 mx-auto mb-5">
           Our set he for firmament morning sixth subdue today the darkness
           creeping gathered divide our let god moving today. Moving in fourth
           air night bring upon lesser subdue.

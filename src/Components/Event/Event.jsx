@@ -24,25 +24,3 @@ const Event = () => {
 };
 
 export default Event;
-
-/* 
-<div className="day time">
-            <p>
-              <span>{20}</span> <br /> <span>day</span>
-            </p>
-          </div>
-          <div className="hours time">
-            <p>
-              <span>12</span> <br /> <span>hours</span>
-            </p>
-          </div>
-          <div className="min time">
-            <p>
-              <span>52</span> <br /> <span>min</span>
-            </p>
-          </div>
-          <div className="sec time">
-            <p>
-              <span>20</span> <br /> <span>sec</span>
-            </p>
-          </div> */

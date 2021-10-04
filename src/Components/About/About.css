@@ -1,0 +1,49 @@
+.about {
+  width: 100%;
+  height: 100vh;
+  margin-top: 40px;
+}
+
+.about-img img {
+  height: 400px;
+  width: 500px;
+}
+
+.about-description {
+  margin: 0 20px;
+}
+
+.our-activities {
+  background-color: #5624d0;
+  color: white;
+  height: auto;
+  margin: 10px 0px;
+  padding: 20px 0;
+}
+
+.activities-title,
+.activities-info {
+  text-align: center;
+  padding: 5px 0;
+}
+
+.activities {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.amount {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.our-activities p {
+  text-align: center;
+}
+
+.learner,
+.teacher,
+.course {
+  font-size: 25px;
+}
