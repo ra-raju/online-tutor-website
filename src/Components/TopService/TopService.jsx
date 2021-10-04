@@ -21,7 +21,7 @@ const TopService = () => {
   return (
     <div className="services">
       <div className="service-heading text-center my-4">
-        <h1>Our top service</h1>
+        <h1 className="text-uppercase mb-5">Our top service</h1>
       </div>
       <div className="service-items ms-3">
         <Row xs={1} md={2} lg={3} className="g-4 service-row">

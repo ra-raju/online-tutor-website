@@ -1,4 +1,5 @@
 import React from 'react';
+import { Contact } from '../Contact/Contact';
 import Event from '../Event/Event';
 import TopService from '../TopService/TopService';
 import './Home.css';
@@ -29,6 +30,7 @@ const Home = () => {
 
       <TopService />
       <Event />
+      <Contact />
     </div>
   );
 };
